@@ -6,7 +6,7 @@ Este es un ejemplo de una aplicación que utiliza la API de REST Countries para 
 
 - Al cargar el DOM, la aplicación tiene que llamar una función que realiza una solicitud a la API para obtener información sobre todos los países. Son 250, tarda un poco en renderizar.
 - La información se ordena alfabéticamente.
-- Al clickar en cada una de las banderas tendrá que mostrar la información detallada en una ventana flotante del país seleccionado. La Muestra información detallada sobre el país seleccionado, incluyendo la bandera, la capital, la población, el lado de la carretera por el que se circula.
+- Al clickar en cada una de las banderas tendrá que mostrar la información detallada en una ventana flotante del país seleccionado. La Muestra información detallada sobre el país seleccionado, incluyendo la bandera, la capital, la población, el lado de la carretera por eircul que se cla.
 - Tendrá un botón cerrar para hacer desaparecer esa información.
 
 Tendrá este aspecto

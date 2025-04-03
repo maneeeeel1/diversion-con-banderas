@@ -8,3 +8,35 @@ body {
 h1 {
   color: #333;
 }
+
+.imagen{
+  width: 150px;
+}
+.contenedor{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  font-size: 10px;
+}
+
+.country{
+  display: flex;
+  flex-direction: column-reverse;
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.imagen{
+  border-radius: 5px;
+}
+
+.ventana{
+  position: fixed;
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  font-weight: bold;
+}
